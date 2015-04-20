@@ -16,24 +16,24 @@
       <tuv lang="EN-US">
         <seg>* Manpages follow a well defined structure that's immediately familiar.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111310Z" creationid="yar" creationdate="20150420T111310Z">
-        <seg>* 不失为按照定义良好的结构，它是很快就能熟悉。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112310Z" creationid="yar" creationdate="20150420T111310Z">
+        <seg>* Manpages 不失为按照定义良好的结构，它是很快就能熟悉。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I disagree:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111250Z" creationid="yar" creationdate="20150420T111250Z">
-        <seg>我不这么认为：</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112259Z" creationid="yar" creationdate="20150420T111250Z">
+        <seg>但我不这么认为：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Some think UNIX manual pages are a poor and outdated form of documentation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111240Z" creationid="yar" creationdate="20150420T111240Z">
-        <seg>有些人认为 UNIX 手册页是一种薄弱及过时的文件形式。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112255Z" creationid="yar" creationdate="20150420T111240Z">
+        <seg>有些人认为 UNIX 手册页是一种薄弱且过时的文件形式。</seg>
       </tuv>
     </tu>
     <tu>
