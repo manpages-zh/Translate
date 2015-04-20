@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111231Z" creationid="yar" creationdate="20150420T111231Z">
+        <seg>## 背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Manpages follow a well defined structure that's immediately familiar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111310Z" creationid="yar" creationdate="20150420T111310Z">
+        <seg>* 不失为按照定义良好的结构，它是很快就能熟悉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I disagree:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111250Z" creationid="yar" creationdate="20150420T111250Z">
+        <seg>我不这么认为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some think UNIX manual pages are a poor and outdated form of documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111240Z" creationid="yar" creationdate="20150420T111240Z">
+        <seg>有些人认为 UNIX 手册页是一种薄弱及过时的文件形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This gives developers a starting point when documenting new tools, libraries, and formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111316Z" creationid="yar" creationdate="20150420T111316Z">
+        <seg>这为开发人员提供一个起始点记录新的工具、 库和格式时。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
