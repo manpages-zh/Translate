@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Manpages get to the point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T113153Z" creationid="yar" creationdate="20150420T113153Z">
+        <seg>* Manpages 抓住了重点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I disagree:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112259Z" creationid="yar" creationdate="20150420T111250Z">
