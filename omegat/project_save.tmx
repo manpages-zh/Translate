@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>HTML versions can use this to generate links between pages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115329Z" creationid="yar" creationdate="20150420T115329Z">
-        <seg>HTML 版本可以使用此生成页面之间的链接。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115556Z" creationid="yar" creationdate="20150420T115329Z">
+        <seg>可以用此来生成 HTML 版本中页面间的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>Unfortunately, figuring out how to create a manpage is a fairly tedious process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115305Z" creationid="yar" creationdate="20150420T115305Z">
-        <seg>不幸的是，弄清楚如何创建在线是一个非常繁琐的过程。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115631Z" creationid="yar" creationdate="20150420T115305Z">
+        <seg>不幸的是，弄清楚如何创建手册是一个非常繁琐的过程。</seg>
       </tuv>
     </tu>
     <tu>
