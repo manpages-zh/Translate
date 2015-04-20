@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>* Manpages follow a well defined structure that's immediately familiar.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112310Z" creationid="yar" creationdate="20150420T111310Z">
-        <seg>* Manpages 不失为按照定义良好的结构，它是很快就能熟悉。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112424Z" creationid="yar" creationdate="20150420T111310Z">
+        <seg>* Manpages 有着定义良好的结构，大多数人很快就能熟悉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>This gives developers a starting point when documenting new tools, libraries, and formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T111316Z" creationid="yar" creationdate="20150420T111316Z">
-        <seg>这为开发人员提供一个起始点记录新的工具、 库和格式时。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112530Z" creationid="yar" creationdate="20150420T111316Z">
+        <seg>这为开发人员提供一个起始点，以记录新的工具、 库和格式时，。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
