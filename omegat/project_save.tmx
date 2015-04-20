@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Although two levels of section hierarchy are technically supported, most manpages use only a single level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114948Z" creationid="yar" creationdate="20150420T114948Z">
+        <seg>* 虽然在技术上支持两个级别的层次结构部分，大多数不失为使用只有一个单一的水平。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Historically, manpages use an extremely -- unbelievably -- limited set of text formatting capabilities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114914Z" creationid="yar" creationdate="20150420T114914Z">
+        <seg>* 从历史上看，不失为使用极其 — — 令人难以置信 — — 有限集的文本格式设置功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Manpages follow a well defined structure that's immediately familiar.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112424Z" creationid="yar" creationdate="20150420T111310Z">
@@ -58,6 +74,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112805Z" creationid="yar" creationdate="20150420T111316Z">
         <seg>这为开发人员提供一个起始点，以记录新的工具、 库和格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a feature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114924Z" creationid="yar" creationdate="20150420T114924Z">
+        <seg>这是一项功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unwieldy document hierarchies complicate otherwise good documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114953Z" creationid="yar" creationdate="20150420T114953Z">
+        <seg>笨拙的文档层次结构复杂另有良好的文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You get a couple of headings, lists, bold, underline and no more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114919Z" creationid="yar" creationdate="20150420T114919Z">
+        <seg>你得到几个标题、 列表、 粗体、 下划线和没有更多。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
