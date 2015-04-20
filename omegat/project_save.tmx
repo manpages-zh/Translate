@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* The classical terminal manpage display is typographically well thought out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115102Z" creationid="yar" creationdate="20150420T115102Z">
+        <seg>* 古典终端在线显示印刷得很周全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because they're written in an inverted style, with a SYNOPSIS section followed by additional detail, prose and references to other sources of information, manpages provide the best of both cheat sheet and reference style documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T113243Z" creationid="yar" creationdate="20150420T113243Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112259Z" creationid="yar" creationdate="20150420T111250Z">
         <seg>但我不这么认为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember that Feynman covered all of physics -- heavenly bodies through QED -- with only two levels of document hierarchy (The Feynman Lectures on Physics, 1970).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115056Z" creationid="yar" creationdate="20150420T115056Z">
+        <seg>记得曼覆盖的所有物理学 — — 通过 QED 的天体 — — 只有两个级别的文档层次结构 （费曼物理学，1970年讲义）。</seg>
       </tuv>
     </tu>
     <tu>
