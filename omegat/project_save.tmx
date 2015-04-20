@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>This is a feature.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114924Z" creationid="yar" creationdate="20150420T114924Z">
-        <seg>这是一项功能。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T121155Z" creationid="yar" creationdate="20150420T114924Z">
+        <seg>这是 Manpages 的一个特性。</seg>
       </tuv>
     </tu>
     <tu>
