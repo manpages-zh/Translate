@@ -46,10 +46,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Manpages have a simple referencing syntax; e.g., sh(1), fork(2), markdown(7).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115235Z" creationid="yar" creationdate="20150420T115235Z">
+        <seg>* Manpages 有一个简单的引用语法 ；例如，sh(1)，fork (2)，markdown(7)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* The classical terminal manpage display is typographically well thought out.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115102Z" creationid="yar" creationdate="20150420T115102Z">
-        <seg>* 古典终端在线显示印刷得很周全。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115118Z" creationid="yar" creationdate="20150420T115102Z">
+        <seg>* 传统终端在线显示印刷得很周全。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +66,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T113243Z" creationid="yar" creationdate="20150420T113243Z">
         <seg>因为它们写在一个倒置的风格，与其后附加详细信息、 散文和其他来源的信息，对引用的简介部分不失为提供最好的两个骗子表和参考样式文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Big bold section headings, justified monospace text, nicely indented paragraphs, intelligently aligned definition lists, and an informational header and footer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115129Z" creationid="yar" creationdate="20150420T115129Z">
+        <seg>大的粗体部分标题、 正当的等宽文本，很好��缩进的段落、 智能地对齐的定义列表信息页眉和页脚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML versions can use this to generate links between pages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115329Z" creationid="yar" creationdate="20150420T115329Z">
+        <seg>HTML 版本可以使用此生成页面之间的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The roff/mandoc/mdoc macro languages are highly extensible, fractured between multiple dialects, and include a bunch of device specific stuff irrelevant to modern publishing tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115322Z" creationid="yar" creationdate="20150420T115322Z">
+        <seg>Roff/mandoc/mdoc 宏语言是高度扩展的裂缝之间多种方言，并且包括一堆设备特定的东西与现代出版工具无关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This gives developers a starting point when documenting new tools, libraries, and formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112805Z" creationid="yar" creationdate="20150420T111316Z">
@@ -98,6 +130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114924Z" creationid="yar" creationdate="20150420T114924Z">
         <seg>这是一项功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, figuring out how to create a manpage is a fairly tedious process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115305Z" creationid="yar" creationdate="20150420T115305Z">
+        <seg>不幸的是，弄清楚如何创建在线是一个非常繁琐的过程。</seg>
       </tuv>
     </tu>
     <tu>
