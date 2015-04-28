@@ -190,6 +190,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-h&lt;/b0&gt;, &lt;b1&gt;--help&lt;/b1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063257Z" creationid="yar" creationdate="20150428T063257Z">
+        <seg>&lt;b0&gt;-h&lt;/b0&gt;, &lt;b1&gt;--help&lt;/b1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-q&lt;/b0&gt;, &lt;b1&gt;--quiet&lt;/b1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063215Z" creationid="yar" creationdate="20150428T063215Z">
+        <seg>&lt;b0&gt;-q&lt;/b0&gt;, &lt;b1&gt;--quiet&lt;/b1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-v&lt;/b0&gt;, &lt;b1&gt;--verbose&lt;/b1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063245Z" creationid="yar" creationdate="20150428T063245Z">
+        <seg>&lt;b0&gt;-v&lt;/b0&gt;, &lt;b1&gt;--verbose&lt;/b1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;gattrib&lt;/b0&gt; [&lt;i1&gt;OPTION&lt;/i1&gt; ...] [&lt;i2&gt;FILE&lt;/i2&gt; ...]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062922Z" creationid="yar" creationdate="20150428T062843Z">
@@ -226,6 +250,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062845Z" creationid="yar" creationdate="20150428T062845Z">
         <seg>[模糊]# 描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ENVIRONMENT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063303Z" creationid="yar" creationdate="20150428T063303Z">
+        <seg>[模糊]# 环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GEDADATA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063307Z" creationid="yar" creationdate="20150428T063307Z">
+        <seg>GEDADATA</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +310,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output all diagnostic information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063255Z" creationid="yar" creationdate="20150428T063255Z">
+        <seg>输出所有的诊断信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print a help message.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063302Z" creationid="yar" creationdate="20150428T063302Z">
+        <seg>打印帮助信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quiet mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063223Z" creationid="yar" creationdate="20150428T063223Z">
+        <seg>安静模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember that Feynman covered all of physics -- heavenly bodies through QED -- with only two levels of document hierarchy (The Feynman Lectures on Physics, 1970).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115056Z" creationid="yar" creationdate="20150420T115056Z">
@@ -290,6 +354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112255Z" creationid="yar" creationdate="20150420T111240Z">
         <seg>有些人认为 UNIX 手册页是一种薄弱且过时的文件形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default is ‘${prefix}/share/gEDA’.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063504Z" creationid="yar" creationdate="20150428T063504Z">
+        <seg>默认是 ‘${prefix}/share/gEDA’。</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn off all warnings/notes/messages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063242Z" creationid="yar" creationdate="20150428T063242Z">
+        <seg>关闭所有警告/注意/消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, figuring out how to create a manpage is a fairly tedious process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115631Z" creationid="yar" creationdate="20150420T115305Z">
@@ -334,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verbose mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063250Z" creationid="yar" creationdate="20150428T063250Z">
+        <seg>详细模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You get a couple of headings, lists, bold, underline and no more.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114919Z" creationid="yar" creationdate="20150420T114919Z">
@@ -346,6 +434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062823Z" creationid="yar" creationdate="20150428T062823Z">
         <seg>gattrib - gEDA/gaf 原理图属性编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specifies the search directory for Scheme and rc files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063429Z" creationid="yar" creationdate="20150428T063429Z">
+        <seg>指定 Scheme 和 rc 文件的搜索目录。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
