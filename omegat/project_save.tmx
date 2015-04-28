@@ -246,10 +246,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-c&lt;/b0&gt; &lt;i1&gt;EXPR&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070128Z" creationid="yar" creationdate="20150428T070128Z">
+        <seg>&lt;b0&gt;-c&lt;/b0&gt;&lt;i1&gt;EXPR&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;-h&lt;/b0&gt;, &lt;b1&gt;--help&lt;/b1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063257Z" creationid="yar" creationdate="20150428T063257Z">
         <seg>&lt;b0&gt;-h&lt;/b0&gt;, &lt;b1&gt;--help&lt;/b1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-o&lt;/b0&gt;, &lt;b1&gt;--output&lt;/b1&gt;=&lt;i2&gt;FILE&lt;/i2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070148Z" creationid="yar" creationdate="20150428T070148Z">
+        <seg>&lt;b0&gt;-o&lt;/b0&gt;， &lt;b1&gt;--output&lt;/b1&gt;=&lt;i2&gt;文件&lt;/i2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065637Z" creationid="yar" creationdate="20150428T065637Z">
         <seg>&lt;b0&gt;-r&lt;/b0&gt;, &lt;b1&gt;--config-file&lt;/b1&gt;=&lt;i2&gt;FILE&lt;/i2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-s&lt;/b0&gt; &lt;i1&gt;FILE&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070109Z" creationid="yar" creationdate="20150428T070109Z">
+        <seg>&lt;b0&gt;-s&lt;/b0&gt;&lt;i1&gt;文件&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +594,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112255Z" creationid="yar" creationdate="20150420T111240Z">
         <seg>有些人认为 UNIX 手册页是一种薄弱且过时的文件形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify a Scheme expression to be evaluated at startup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070137Z" creationid="yar" creationdate="20150428T070137Z">
+        <seg>指定在启动时所要执行的 Scheme 脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify a Scheme script to be executed at startup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070123Z" creationid="yar" creationdate="20150428T070123Z">
+        <seg>指定在启动时所要执行的 Scheme 脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify a filename for PostScript output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070207Z" creationid="yar" creationdate="20150428T070207Z">
+        <seg>为 PostScript 输出指定一个文件名。</seg>
       </tuv>
     </tu>
     <tu>
