@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#COPYRIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062545Z" creationid="yar" creationdate="20150428T062545Z">
+        <seg># 版权</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062520Z" creationid="yar" creationdate="20150428T062520Z">
@@ -40,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>#NAME</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062511Z" creationid="yar" creationdate="20150428T062511Z">
-        <seg># </seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062649Z" creationid="yar" creationdate="20150428T062511Z">
+        <seg># 名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062523Z" creationid="yar" creationdate="20150428T062523Z">
         <seg># 选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#SEE ALSO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062548Z" creationid="yar" creationdate="20150428T062548Z">
+        <seg># 参考</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +126,78 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;NAME&lt;/a0&gt;&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062553Z" creationid="yar" creationdate="20150428T062553Z">
+        <seg>[模糊]# </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a10&gt;AUTHORS&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062556Z" creationid="yar" creationdate="20150428T062556Z">
+        <seg>[模糊]# 作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a12&gt;COPYRIGHT&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062557Z" creationid="yar" creationdate="20150428T062557Z">
+        <seg>[模糊]# 版权</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a14&gt;SEE ALSO&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062559Z" creationid="yar" creationdate="20150428T062559Z">
+        <seg>[模糊]# 参考</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;SYNOPSIS&lt;/a2&gt;&lt;br3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062555Z" creationid="yar" creationdate="20150428T062555Z">
+        <seg>[模糊]# 语法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a4&gt;DESCRIPTION&lt;/a4&gt;&lt;br5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062555Z" creationid="yar" creationdate="20150428T062555Z">
+        <seg>[模糊]# 描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a6&gt;OPTIONS&lt;/a6&gt;&lt;br7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062556Z" creationid="yar" creationdate="20150428T062556Z">
+        <seg>[模糊]# 选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;ENVIRONMENT&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062556Z" creationid="yar" creationdate="20150428T062556Z">
+        <seg>[模糊]# 环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gattrib&lt;/b0&gt; [&lt;i1&gt;OPTION&lt;/i1&gt; ...] [&lt;i2&gt;FILE&lt;/i2&gt; ...]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062843Z" creationid="yar" creationdate="20150428T062843Z">
+        <seg>&lt;b0&gt;gattrib&lt;/b0&gt;[&lt;i1&gt;选项&lt;/i1&gt;][&lt;i2&gt;文件&lt;/i2&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because they're written in an inverted style, with a SYNOPSIS section followed by additional detail, prose and references to other sources of information, manpages provide the best of both cheat sheet and reference style documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T113243Z" creationid="yar" creationdate="20150420T113243Z">
@@ -122,6 +210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115129Z" creationid="yar" creationdate="20150420T115129Z">
         <seg>大的粗体部分标题、 正当的等宽文本，很好��缩进的段落、 智能地对齐的定义列表信息页眉和页脚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DESCRIPTION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062845Z" creationid="yar" creationdate="20150428T062845Z">
+        <seg>[模糊]# 描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NAME</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062600Z" creationid="yar" creationdate="20150428T062600Z">
+        <seg>[模糊]# </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember that Feynman covered all of physics -- heavenly bodies through QED -- with only two levels of document hierarchy (The Feynman Lectures on Physics, 1970).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115056Z" creationid="yar" creationdate="20150420T115056Z">
         <seg>记得曼覆盖的所有物理学 — — 通过 QED 的天体 — — 只有两个级别的文档层次结构 （费曼物理学，1970年讲义）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SYNOPSIS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062824Z" creationid="yar" creationdate="20150428T062824Z">
+        <seg>[模糊]# 语法</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114919Z" creationid="yar" creationdate="20150420T114919Z">
         <seg>你得到几个标题、 列表、 粗体、 下划线和没有更多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gattrib - gEDA/gaf Schematic Attribute Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062823Z" creationid="yar" creationdate="20150428T062823Z">
+        <seg>gattrib - gEDA/gaf 原理图属性编辑器</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
