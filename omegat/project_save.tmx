@@ -494,6 +494,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schematics are made up of symbols, which represent the various components in the circuit, and are obtained either from a standard library or created by the user.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065336Z" creationid="yar" creationdate="20150428T065336Z">
+        <seg>原理图由表示电路中各种组件的符号构成，这些符号可以从标准库得到或由用户创建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schematics may be printed to a PostScript file for printing or further conversion to other output formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065518Z" creationid="yar" creationdate="20150428T065518Z">
+        <seg>原理图可以输出到 PostScript 文件，以便打印或进一步转换到其他输出格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the ‘AUTHORS’ file included with this program.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063554Z" creationid="yar" creationdate="20150428T063531Z">
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112255Z" creationid="yar" creationdate="20150420T111240Z">
         <seg>有些人认为 UNIX 手册页是一种薄弱且过时的文件形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The connections between components represented by nets (wires).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065432Z" creationid="yar" creationdate="20150428T065432Z">
+        <seg>符号之间由 nets（电线）连接。</seg>
       </tuv>
     </tu>
     <tu>
