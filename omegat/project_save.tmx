@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;NAME&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062553Z" creationid="yar" creationdate="20150428T062553Z">
-        <seg>[模糊]# </seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063746Z" creationid="yar" creationdate="20150428T062553Z">
+        <seg>[&lt;a0&gt;NAME&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,24 +160,24 @@
       <tuv lang="EN-US">
         <seg>&lt;a2&gt;SYNOPSIS&lt;/a2&gt;&lt;br3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062555Z" creationid="yar" creationdate="20150428T062555Z">
-        <seg>[模糊]# 语法</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063737Z" creationid="yar" creationdate="20150428T062555Z">
+        <seg>&lt;a2&gt;语法&lt;/a2&gt;&lt;br3&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;a4&gt;DESCRIPTION&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062555Z" creationid="yar" creationdate="20150428T062555Z">
-        <seg>[模糊]# 描述</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063716Z" creationid="yar" creationdate="20150428T062555Z">
+        <seg>&lt;a4&gt;描述&lt;/a4&gt;&lt;br5&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;a6&gt;OPTIONS&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062556Z" creationid="yar" creationdate="20150428T062556Z">
-        <seg>[模糊]# 选项</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063702Z" creationid="yar" creationdate="20150428T062556Z">
+        <seg>&lt;a6&gt;选项&lt;/a6&gt;&lt;br7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTHORS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063617Z" creationid="yar" creationdate="20150428T063524Z">
+        <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because they're written in an inverted style, with a SYNOPSIS section followed by additional detail, prose and references to other sources of information, manpages provide the best of both cheat sheet and reference style documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T113243Z" creationid="yar" creationdate="20150420T113243Z">
@@ -246,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>COPYRIGHT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063605Z" creationid="yar" creationdate="20150428T063533Z">
+        <seg>版权</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062845Z" creationid="yar" creationdate="20150428T062845Z">
@@ -256,8 +272,8 @@
       <tuv lang="EN-US">
         <seg>ENVIRONMENT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063303Z" creationid="yar" creationdate="20150428T063303Z">
-        <seg>[模糊]# 环境变量</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063624Z" creationid="yar" creationdate="20150428T063303Z">
+        <seg>环境变量</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063307Z" creationid="yar" creationdate="20150428T063307Z">
         <seg>GEDADATA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GEDADATARC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063509Z" creationid="yar" creationdate="20150428T063509Z">
+        <seg>GEDADATARC</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>NAME</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062600Z" creationid="yar" creationdate="20150428T062600Z">
-        <seg>[模糊]# </seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063801Z" creationid="yar" creationdate="20150428T062600Z">
+        <seg>NAME</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +368,16 @@
       <tuv lang="EN-US">
         <seg>SYNOPSIS</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062824Z" creationid="yar" creationdate="20150428T062824Z">
-        <seg>[模糊]# 语法</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063753Z" creationid="yar" creationdate="20150428T062824Z">
+        <seg>语法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the ‘AUTHORS’ file included with this program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063554Z" creationid="yar" creationdate="20150428T063531Z">
+        <seg>请参阅该程序附带的 ‘AUTHORS’文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112255Z" creationid="yar" creationdate="20150420T111240Z">
         <seg>有些人认为 UNIX 手册页是一种薄弱且过时的文件形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default is ‘$GEDADATA’.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063523Z" creationid="yar" creationdate="20150428T063523Z">
+        <seg>默认是‘$GEDADATA’.</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063429Z" creationid="yar" creationdate="20150428T063429Z">
         <seg>指定 Scheme 和 rc 文件的搜索目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specifies the search directory for rc files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063512Z" creationid="yar" creationdate="20150428T063512Z">
+        <seg>[模糊]指定 Scheme 和 rc 文件的搜索目录。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
