@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt; is a schematic capture application, and is part of the gEDA (GPL Electronic Design Automation) toolset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065038Z" creationid="yar" creationdate="20150428T065038Z">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt; 是一个原理图捕获工具，它是 gEDA（GPL 电子设计自动化）工具集的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;gschem&lt;/b0&gt;(1)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064153Z" creationid="yar" creationdate="20150428T064153Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063156Z" creationid="yar" creationdate="20150428T063156Z">
         <seg>如果在命令行上没有指定要打开的&lt;i0&gt;文件&lt;/i0&gt;s ，则 &lt;b1&gt;gattrib&lt;/b1&gt; 会在启动时显示文件选择器对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is used to draw electronic schematics, which describe the logical structure of an circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065140Z" creationid="yar" creationdate="20150428T065140Z">
+        <seg>它被用来绘制电子原理图，描述电路的逻辑结构。</seg>
       </tuv>
     </tu>
     <tu>
