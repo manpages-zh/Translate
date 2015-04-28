@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a0&gt;NAME&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063746Z" creationid="yar" creationdate="20150428T062553Z">
-        <seg>[&lt;a0&gt;NAME&lt;/a0&gt;&lt;br1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064312Z" creationid="yar" creationdate="20150428T062553Z">
+        <seg>&lt;a0&gt;名称&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
