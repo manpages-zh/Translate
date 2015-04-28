@@ -1,0 +1,193 @@
+<!-- Creator     : groff version 1.22.2 --><!-- CreationDate: Wed Sep 25 22:55:54 2013 -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta name="generator" content="groff -Thtml, see www.gnu.org">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="Content-Style" content="text/css">
+<style type="text/css">
+       p       { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       pre     { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       table   { margin-top: 0; margin-bottom: 0; vertical-align: top }
+       h1      { text-align: center }
+</style>
+<title>gschem</title>
+
+</head>
+<body>
+
+<h1 align="center">gschem</h1>
+
+<a href="# 名称">名称</a><br><a href="# 语法">语法</a><br><a href="# 描述">描述</a><br><a href="# 选项">选项</a><br><a href="# 原理图和符号文件">原理图和符号文件</a><br><a href="# 环境变量">环境变量</a><br><a href="# 环境变量">作者</a><br><a href="# 版权">版权</a><br><a href="# 版权">参见</a><br>
+
+<hr>
+
+
+<h2>名称
+<a name="NAME"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">gschem - gEDA/gaf 原理图捕获程序</p>
+
+<h2>语法
+<a name="SYNOPSIS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>gschem</b> [<i>选项</i> ...] [<i>--</i>] [<i>文件</i> ...]</p>
+
+<h2>描述
+<a name="DESCRIPTION"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>gschem</b> 是一个原理图捕获工具，它是 gEDA（GPL 电子设计自动化）工具集的一部分。它被用来绘制电子原理图，描述电路的逻辑结构。原理图由表示电路中各种组件的符号构成，这些符号可以从标准库得到或由用户创建。符号之间由 nets（电线）连接。原理图可以输出到 PostScript 文件，以便打印或进一步转换到其他输出格式。此外也支持对各种图像格式的输出。</p>
+
+<p style="margin-left:11%; margin-top: 1em"><b>gschem</b> 也可以用于编辑在图表中使用的符号。</p>
+
+<h2>选项
+<a name="OPTIONS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>-q</b>,
+<b>--quiet</b></p>
+
+<p style="margin-left:23%;">安静模式。关闭所有警告/注意/消息。</p>
+
+<p style="margin-left:11%;"><b>-v</b>, <b>--verbose</b></p>
+
+<p style="margin-left:23%;">详细模式。输出所有的诊断信息。</p>
+
+<p style="margin-left:11%;"><b>-r</b>,
+<b>--config-file</b>=<i>FILE</i></p>
+
+<p style="margin-left:23%;">指定一个额外的配置文件。通常<b>gschem</b> 先搜索系统配置文件，然后是 '$HOME/.gEDA/gschemrc'，最后是当前的工作目录中的 'gschemrc' 文件。此选项允许用户指定一个额外的 rc 文件，并在完成读取其他 rc 文件后读取该文件。</p>
+
+<p style="margin-left:11%;"><b>-L</b><i>目录</i></p>
+
+<p style="margin-left:23%;">追加一个 Scheme 文件搜索<i>目录</i>。</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="11%">
+
+
+<p><b>-s</b><i>文件</i></p></td>
+<td width="1%"></td>
+<td width="77%">
+
+
+<p>指定在启动时所要执行的 Scheme 脚本。</p></td></tr>
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="11%">
+
+
+<p><b>-c</b><i> EXPR</i></p></td>
+<td width="1%"></td>
+<td width="77%">
+
+
+<p>指定在启动时所要执行的 Scheme 脚本。</p> </td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-o</b>， <b>--output</b>=<i>文件</i></p>
+
+<p style="margin-left:23%;">为 PostScript 输出指定一个文件名。当通过Shell 脚本或 Scheme 脚本启动 <b>gschem</b> 时，该命令行参数是非常有用的。文件名可以通过输出对话框来修改</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p><b>-p</b></p></td>
+<td width="9%"></td>
+<td width="77%">
+
+
+<p>自动放置窗口。当通过命令行启动 <b>gschem</b> 和生成输出文件时，该命令行参数是非常有用的。</p> </td></tr>
+</table>
+
+<p style="margin-left:11%;"><b>-h</b>, <b>--help</b></p>
+
+<p style="margin-left:23%;">打印帮助信息。</p>
+
+<p style="margin-left:11%;"><b>-v</b>, <b>--verbose</b></p>
+
+<p style="margin-left:23%;">打印 <b>gschem</b> 的版本信息。</p>
+
+<table width="100%" border="0" rules="none" frame="void"
+       cellspacing="0" cellpadding="0">
+<tr valign="top" align="left">
+<td width="11%"></td>
+<td width="3%">
+
+
+<p><b>--</b></p></td>
+<td width="9%"></td>
+<td width="77%">
+
+
+<p>把所有剩余的参数作为原理图或符号的文件名。如果你有一个以“ - ”开头的原理图文件名或符号名，使用这个选项。</p></td></tr>
+</table>
+
+<h2>原理图和符号文件
+<a name="SCHEMATIC AND SYMBOL FILES"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">可选，原理图或符号 <i>FILES</i> 可在命令行上指定。任何指定的原理图或符号都会在启动时在原理图编辑器中作为单独文件被加载。</p>
+
+<p style="margin-left:11%; margin-top: 1em">如果没有指定 <i>FILE</i>s ，则创建一个空白的原理图。</p>
+
+<h2>环境变量
+<a name="ENVIRONMENT"></a>
+</h2>
+
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>GEDADATA</b></p>
+
+<p style="margin-left:23%;">指定 Scheme 和 rc 文件的搜索目录。默认是 ‘${prefix}/share/gEDA’。</p>
+
+<p style="margin-left:11%;"><b>GEDADATARC</b></p>
+
+<p style="margin-left:23%;">指定 Scheme 和 rc 文件的搜索目录。默认是‘$GEDADATA’.</p>
+
+<h2>作者
+<a name="AUTHORS"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">请参阅该程序附带的 ‘AUTHORS’文件。</p>
+
+<h2>版权
+<a name="COPYRIGHT"></a>
+</h2>
+
+
+<p style="margin-left:11%; margin-top: 1em">Copyright © 1999-2011 gEDA Contributors. License GPLv2+: GNU GPL <br>version 2 or later. 请参阅该程序附带的 ‘COPYING’文件。有关程序的详细信息。</p>
+
+<p style="margin-left:11%; margin-top: 1em">这是自由软件： 您还可以自由改变和重新发布它。<br>在法律许可的范围之内，本许可不对产品作任何的保证。</p>
+
+<h2>参考
+<a name="SEE ALSO"></a>
+</h2>
+
+
+
+<p style="margin-left:11%; margin-top: 1em"><b>gnetlist</b>(1),
+<b>gsymcheck</b>(1)</p>
+
+<p style="margin-left:11%; margin-top: 1em">完整的 <b>gschem</b> 文档可从通过选择该程序“帮助”菜单中的“gEDA Documentation”获得。</p>
+<hr>
+</body>
+</html>
