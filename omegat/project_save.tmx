@@ -136,24 +136,24 @@
       <tuv lang="EN-US">
         <seg>&lt;a10&gt;AUTHORS&lt;/a10&gt;&lt;br11&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062556Z" creationid="yar" creationdate="20150428T062556Z">
-        <seg>[模糊]# 作者</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063855Z" creationid="yar" creationdate="20150428T062556Z">
+        <seg>&lt;a10&gt;作者&lt;/a10&gt;&lt;br11&gt;[</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;a12&gt;COPYRIGHT&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062557Z" creationid="yar" creationdate="20150428T062557Z">
-        <seg>[模糊]# 版权</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063839Z" creationid="yar" creationdate="20150428T062557Z">
+        <seg>&lt;a12&gt;版权&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;a14&gt;SEE ALSO&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062559Z" creationid="yar" creationdate="20150428T062559Z">
-        <seg>[模糊]# 参考</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063821Z" creationid="yar" creationdate="20150428T062559Z">
+        <seg>&lt;a14&gt;请参见&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>&lt;a8&gt;ENVIRONMENT&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062556Z" creationid="yar" creationdate="20150428T062556Z">
-        <seg>[模糊]# 环境变量</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063920Z" creationid="yar" creationdate="20150428T062556Z">
+        <seg>&lt;a8&gt;环境变量&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064055Z" creationid="yar" creationdate="20150428T064055Z">
+        <seg>&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTHORS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063617Z" creationid="yar" creationdate="20150428T063524Z">
@@ -262,10 +270,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright © 1999-2011 gEDA Contributors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063940Z" creationid="yar" creationdate="20150428T063940Z">
+        <seg>Copyright © 1999-2011 gEDA Contributors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062845Z" creationid="yar" creationdate="20150428T062845Z">
-        <seg>[模糊]# 描述</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063935Z" creationid="yar" creationdate="20150428T062845Z">
+        <seg>描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>License GPLv2+: GNU GPL &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063942Z" creationid="yar" creationdate="20150428T063942Z">
+        <seg>License GPLv2+: GNU GPL &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NAME</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063801Z" creationid="yar" creationdate="20150428T062600Z">
@@ -328,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>OPTIONS</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063157Z" creationid="yar" creationdate="20150428T063157Z">
-        <seg>[模糊]# 选项</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063927Z" creationid="yar" creationdate="20150428T063157Z">
+        <seg>选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063255Z" creationid="yar" creationdate="20150428T063255Z">
         <seg>输出所有的诊断信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please see the ‘COPYING’ file included with this &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064022Z" creationid="yar" creationdate="20150428T064022Z">
+        <seg>请参阅该程序附带的 ‘COPYING’文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is free software: you are free to change and redistribute it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064050Z" creationid="yar" creationdate="20150428T064050Z">
+        <seg>这是自由软件： 您还可以自由改变和重新发布它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn off all warnings/notes/messages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063242Z" creationid="yar" creationdate="20150428T063242Z">
@@ -478,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>program for full details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064044Z" creationid="yar" creationdate="20150428T064044Z">
+        <seg>有关程序的详细信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>specifies the search directory for Scheme and rc files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063429Z" creationid="yar" creationdate="20150428T063429Z">
@@ -490,6 +538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063512Z" creationid="yar" creationdate="20150428T063512Z">
         <seg>[模糊]指定 Scheme 和 rc 文件的搜索目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>version 2 or later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063944Z" creationid="yar" creationdate="20150428T063944Z">
+        <seg>version 2 or later.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
