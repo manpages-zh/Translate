@@ -560,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>Specify an additional configuration file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065717Z" creationid="yar" creationdate="20150428T065717Z">
-        <seg>指定配置文件</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065834Z" creationid="yar" creationdate="20150428T065717Z">
+        <seg>指定一个额外的配置文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064050Z" creationid="yar" creationdate="20150428T064050Z">
         <seg>这是自由软件： 您还可以自由改变和重新发布它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option allows the user to specify an additional rc file which is read after all the other rc files have been are read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065828Z" creationid="yar" creationdate="20150428T065828Z">
+        <seg>此选项允许用户指定额外的 rc 文件毕竟读其他 rc 文件已经被读取。</seg>
       </tuv>
     </tu>
     <tu>
