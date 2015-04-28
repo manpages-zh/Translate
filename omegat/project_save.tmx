@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#SCHEMATIC AND SYMBOL FILES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064519Z" creationid="yar" creationdate="20150428T064519Z">
+        <seg># 原理图和符号文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#SEE ALSO</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062548Z" creationid="yar" creationdate="20150428T062548Z">
@@ -142,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a10&gt;ENVIRONMENT&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064609Z" creationid="yar" creationdate="20150428T064609Z">
+        <seg>&lt;a10&gt;环境变量&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a12&gt;COPYRIGHT&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063839Z" creationid="yar" creationdate="20150428T062557Z">
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063920Z" creationid="yar" creationdate="20150428T062556Z">
         <seg>&lt;a8&gt;环境变量&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;SCHEMATIC AND SYMBOL FILES&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064545Z" creationid="yar" creationdate="20150428T064545Z">
+        <seg>&lt;a8&gt;原理图和符号文件&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
