@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-p</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070555Z" creationid="yar" creationdate="20150428T070555Z">
+        <seg>-p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;NAME&lt;/a0&gt;&lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064312Z" creationid="yar" creationdate="20150428T062553Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063617Z" creationid="yar" creationdate="20150428T063524Z">
         <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatically place the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070604Z" creationid="yar" creationdate="20150428T070604Z">
+        <seg>自动放置窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The filename can be changed through the print dialog box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070545Z" creationid="yar" creationdate="20150428T070545Z">
+        <seg>文件名可以通过输出对话框来修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The roff/mandoc/mdoc macro languages are highly extensible, fractured between multiple dialects, and include a bunch of device specific stuff irrelevant to modern publishing tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115322Z" creationid="yar" creationdate="20150420T115322Z">
@@ -666,6 +690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064143Z" creationid="yar" creationdate="20150428T064143Z">
         <seg>在法律许可的范围之内，本许可不对产品作任何的保证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This command line argument is useful when running &lt;b0&gt;gschem&lt;/b0&gt; from a shell script and with a Scheme script.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070508Z" creationid="yar" creationdate="20150428T070508Z">
+        <seg>当通过Shell 脚本或 Scheme 脚本启动 &lt;b0&gt;gschem&lt;/b0&gt; 时，该命令行参数是非常有用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064050Z" creationid="yar" creationdate="20150428T064050Z">
         <seg>这是自由软件： 您还可以自由改变和重新发布它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may be useful if running &lt;b0&gt;gschem&lt;/b0&gt; from the command line and generating output.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070700Z" creationid="yar" creationdate="20150428T070700Z">
+        <seg>当通过命令行启动 &lt;b0&gt;gschem&lt;/b0&gt; 和生成输出文件时，该命令行参数是非常有用的。</seg>
       </tuv>
     </tu>
     <tu>
