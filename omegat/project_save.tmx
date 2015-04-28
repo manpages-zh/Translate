@@ -560,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>specifies the search directory for rc files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063512Z" creationid="yar" creationdate="20150428T063512Z">
-        <seg>[模糊]指定 Scheme 和 rc 文件的搜索目录。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064421Z" creationid="yar" creationdate="20150428T063512Z">
+        <seg>指定 Scheme 和 rc 文件的搜索目录。</seg>
       </tuv>
     </tu>
     <tu>
