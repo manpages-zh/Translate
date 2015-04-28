@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt;(1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064153Z" creationid="yar" creationdate="20150428T064153Z">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt;(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064055Z" creationid="yar" creationdate="20150428T064055Z">
@@ -398,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SEE ALSO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064149Z" creationid="yar" creationdate="20150428T064149Z">
+        <seg>参考</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SYNOPSIS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063753Z" creationid="yar" creationdate="20150428T062824Z">
@@ -442,6 +458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115322Z" creationid="yar" creationdate="20150420T115322Z">
         <seg>Roff/mandoc/mdoc 宏语言是高度扩展的裂缝之间多种方言，并且包括一堆设备特定的东西与现代出版工具无关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is NO WARRANTY, to the extent permitted by law.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064143Z" creationid="yar" creationdate="20150428T064143Z">
+        <seg>在法律许可的范围之内，本许可不对产品作任何的保证。</seg>
       </tuv>
     </tu>
     <tu>
