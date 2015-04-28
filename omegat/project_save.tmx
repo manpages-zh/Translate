@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-L&lt;/b0&gt; &lt;i1&gt;DIRECTORY&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065959Z" creationid="yar" creationdate="20150428T065959Z">
+        <seg>&lt;b0&gt;-L&lt;/b0&gt;&lt;i1&gt;目录&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;-h&lt;/b0&gt;, &lt;b1&gt;--help&lt;/b1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063257Z" creationid="yar" creationdate="20150428T063257Z">
@@ -486,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prepend &lt;i0&gt;DIRECTORY&lt;/i0&gt; to the list of directories to be searched for Scheme files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070047Z" creationid="yar" creationdate="20150428T070047Z">
+        <seg>追加一个 Scheme 文件搜索&lt;i0&gt;目录&lt;/i0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print a help message.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063302Z" creationid="yar" creationdate="20150428T063302Z">
@@ -632,8 +648,8 @@
       <tuv lang="EN-US">
         <seg>This option allows the user to specify an additional rc file which is read after all the other rc files have been are read.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065828Z" creationid="yar" creationdate="20150428T065828Z">
-        <seg>此选项允许用户指定额外的 rc 文件毕竟读其他 rc 文件已经被读取。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065952Z" creationid="yar" creationdate="20150428T065828Z">
+        <seg>此选项允许用户指定一个额外的 rc 文件，并在完成读取其他 rc 文件后读取该文件。</seg>
       </tuv>
     </tu>
     <tu>
