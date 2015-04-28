@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a12&gt;AUTHORS&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064634Z" creationid="yar" creationdate="20150428T064634Z">
+        <seg>&lt;a10&gt;作者&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a12&gt;COPYRIGHT&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063839Z" creationid="yar" creationdate="20150428T062557Z">
@@ -166,10 +174,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a14&gt;COPYRIGHT&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064655Z" creationid="yar" creationdate="20150428T064655Z">
+        <seg>&lt;a14&gt;版权&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a14&gt;SEE ALSO&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063821Z" creationid="yar" creationdate="20150428T062559Z">
         <seg>&lt;a14&gt;请参见&lt;/a14&gt;&lt;br15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a16&gt;SEE ALSO&lt;/a16&gt;&lt;br17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064704Z" creationid="yar" creationdate="20150428T064704Z">
+        <seg>&lt;a14&gt;参见&lt;/a14&gt;&lt;br15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063115Z" creationid="yar" creationdate="20150428T062906Z">
         <seg>&lt;b0&gt;gattrib&lt;/b0&gt; 是一个类似电子表格的批量属性编辑器，通常用于修改在&lt;b1&gt;gschem&lt;/b1&gt;(1) 中创建的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt; [&lt;i1&gt;OPTION&lt;/i1&gt; ...] [&lt;i2&gt;--&lt;/i2&gt;] [&lt;i3&gt;FILE&lt;/i3&gt; ...]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064800Z" creationid="yar" creationdate="20150428T064800Z">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt; [&lt;i1&gt;选项&lt;/i1&gt; ...] [&lt;i2&gt;--&lt;/i2&gt;] [&lt;i3&gt;文件&lt;/i3&gt; ...]</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +408,8 @@
       <tuv lang="EN-US">
         <seg>NAME</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063801Z" creationid="yar" creationdate="20150428T062600Z">
-        <seg>NAME</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064710Z" creationid="yar" creationdate="20150428T062600Z">
+        <seg>名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062823Z" creationid="yar" creationdate="20150428T062823Z">
         <seg>gattrib - gEDA/gaf 原理图属性编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gschem - gEDA/gaf Schematic Capture</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064718Z" creationid="yar" creationdate="20150428T064718Z">
+        <seg>gschem - gEDA/gaf Schematic Capture</seg>
       </tuv>
     </tu>
     <tu>
