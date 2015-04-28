@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gnetlist&lt;/b0&gt;(1), &lt;b1&gt;gsymcheck&lt;/b1&gt;(1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071137Z" creationid="yar" creationdate="20150428T071137Z">
+        <seg>&lt;b0&gt;gnetlist&lt;/b0&gt;(1), &lt;b1&gt;gsymcheck&lt;/b1&gt;(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;gschem&lt;/b0&gt; [&lt;i1&gt;OPTION&lt;/i1&gt; ...] [&lt;i2&gt;--&lt;/i2&gt;] [&lt;i3&gt;FILE&lt;/i3&gt; ...]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064800Z" creationid="yar" creationdate="20150428T064800Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063617Z" creationid="yar" creationdate="20150428T063524Z">
         <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any schematic or symbols specified are loaded at startup as separate documents in the schematic editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071043Z" creationid="yar" creationdate="20150428T071043Z">
+        <seg>任何指定的原理图或符号都会在启动时在原理图编辑器中作为单独文件被加载。</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112259Z" creationid="yar" creationdate="20150420T111250Z">
         <seg>但我不这么认为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no &lt;i0&gt;FILE&lt;/i0&gt;s are specified, a blank schematic is created for editing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071124Z" creationid="yar" creationdate="20150428T071124Z">
+        <seg>如果没有指定 &lt;i0&gt;FILE&lt;/i0&gt;s ，则创建一个空白的原理图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070545Z" creationid="yar" creationdate="20150428T070545Z">
         <seg>文件名可以通过输出对话框来修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The full documentation for &lt;b0&gt;gschem&lt;/b0&gt; is available from within the program by selecting the ‘gEDA Documentation’ option from the program’s ‘Help’ menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071318Z" creationid="yar" creationdate="20150428T071318Z">
+        <seg>完整的 &lt;b0&gt;gschem&lt;/b0&gt; 文档可从通过选择该程序“帮助”菜单中的“gEDA Documentation”获得。</seg>
       </tuv>
     </tu>
     <tu>
