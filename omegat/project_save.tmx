@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>--</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070729Z" creationid="yar" creationdate="20150428T070729Z">
+        <seg>--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-p</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070555Z" creationid="yar" creationdate="20150428T070555Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065959Z" creationid="yar" creationdate="20150428T065959Z">
         <seg>&lt;b0&gt;-L&lt;/b0&gt;&lt;i1&gt;目录&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-V&lt;/b0&gt;, &lt;b1&gt;--version&lt;/b1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070716Z" creationid="yar" creationdate="20150428T070716Z">
+        <seg>&lt;b0&gt;-v&lt;/b0&gt;, &lt;b1&gt;--verbose&lt;/b1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, schematic or symbol &lt;i0&gt;FILE&lt;/i0&gt;s may be specified on the command line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070959Z" creationid="yar" creationdate="20150428T070959Z">
+        <seg>可选，原理图或符号 &lt;i0&gt;FILES&lt;/i0&gt; 可在命令行上指定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output all diagnostic information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063255Z" creationid="yar" creationdate="20150428T063255Z">
@@ -542,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print &lt;b0&gt;gschem&lt;/b0&gt; version information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070727Z" creationid="yar" creationdate="20150428T070727Z">
+        <seg>打印 &lt;b0&gt;gschem&lt;/b0&gt; 的版本信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print a help message.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063302Z" creationid="yar" creationdate="20150428T063302Z">
@@ -562,6 +594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115056Z" creationid="yar" creationdate="20150420T115056Z">
         <seg>记得曼覆盖的所有物理学 — — 通过 QED 的天体 — — 只有两个级别的文档层次结构 （费曼物理学，1970年讲义）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCHEMATIC AND SYMBOL FILES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070928Z" creationid="yar" creationdate="20150428T070928Z">
+        <seg>原理图和符号文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Treat all remaining arguments as schematic or symbol filenames.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070747Z" creationid="yar" creationdate="20150428T070747Z">
+        <seg>把所有剩余的参数作为原理图或符号的文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turn off all warnings/notes/messages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063242Z" creationid="yar" creationdate="20150428T063242Z">
@@ -762,6 +810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114953Z" creationid="yar" creationdate="20150420T114953Z">
         <seg>笨拙的文档层次结构复杂另有良好的文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this if you have a schematic or symbol filename which begins with ‘-’.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070921Z" creationid="yar" creationdate="20150428T070921Z">
+        <seg>如果你有一个以“ - ”开头的原理图文件名或符号名，使用这个选项。</seg>
       </tuv>
     </tu>
     <tu>
