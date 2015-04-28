@@ -14,6 +14,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#AUTHORS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062532Z" creationid="yar" creationdate="20150428T062532Z">
+        <seg># 作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#DESCRIPTION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062520Z" creationid="yar" creationdate="20150428T062520Z">
+        <seg># 描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#ENVIRONMENT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062529Z" creationid="yar" creationdate="20150428T062529Z">
+        <seg># 环境变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#NAME</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062511Z" creationid="yar" creationdate="20150428T062511Z">
+        <seg># </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#OPTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062523Z" creationid="yar" creationdate="20150428T062523Z">
+        <seg># 选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#SYNOPSIS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062517Z" creationid="yar" creationdate="20150428T062517Z">
+        <seg># 语法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Although two levels of section hierarchy are technically supported, most manpages use only a single level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114948Z" creationid="yar" creationdate="20150420T114948Z">
