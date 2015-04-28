@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt; can also be used for editing symbols for use in schematics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065546Z" creationid="yar" creationdate="20150428T065546Z">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt; 可以用于编辑用于在图表中使用的符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;gschem&lt;/b0&gt; is a schematic capture application, and is part of the gEDA (GPL Electronic Design Automation) toolset.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065038Z" creationid="yar" creationdate="20150428T065038Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063255Z" creationid="yar" creationdate="20150428T063255Z">
         <seg>输出所有的诊断信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output to various image formats is also supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065533Z" creationid="yar" creationdate="20150428T065533Z">
+        <seg>此外也支持对各种图像格式的输出。</seg>
       </tuv>
     </tu>
     <tu>
