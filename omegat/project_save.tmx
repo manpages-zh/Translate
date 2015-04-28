@@ -272,8 +272,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;-c&lt;/b0&gt; &lt;i1&gt;EXPR&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070128Z" creationid="yar" creationdate="20150428T070128Z">
-        <seg>&lt;b0&gt;-c&lt;/b0&gt;&lt;i1&gt;EXPR&lt;/i1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071520Z" creationid="yar" creationdate="20150428T070128Z">
+        <seg>&lt;b0&gt;-c&lt;/b0&gt;&lt;i1&gt; EXPR&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +880,8 @@
       <tuv lang="EN-US">
         <seg>gschem - gEDA/gaf Schematic Capture</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064718Z" creationid="yar" creationdate="20150428T064718Z">
-        <seg>gschem - gEDA/gaf Schematic Capture</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071512Z" creationid="yar" creationdate="20150428T064718Z">
+        <seg>gschem - gEDA/gaf 原理图捕获程序</seg>
       </tuv>
     </tu>
     <tu>
