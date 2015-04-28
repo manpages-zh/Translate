@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-r&lt;/b0&gt;, &lt;b1&gt;--config-file&lt;/b1&gt;=&lt;i2&gt;FILE&lt;/i2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065637Z" creationid="yar" creationdate="20150428T065637Z">
+        <seg>&lt;b0&gt;-r&lt;/b0&gt;, &lt;b1&gt;--config-file&lt;/b1&gt;=&lt;i2&gt;FILE&lt;/i2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;-v&lt;/b0&gt;, &lt;b1&gt;--verbose&lt;/b1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063245Z" creationid="yar" creationdate="20150428T063245Z">
@@ -288,8 +296,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;gschem&lt;/b0&gt; can also be used for editing symbols for use in schematics.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065546Z" creationid="yar" creationdate="20150428T065546Z">
-        <seg>&lt;b0&gt;gschem&lt;/b0&gt; 可以用于编辑用于在图表中使用的符号。</seg>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065629Z" creationid="yar" creationdate="20150428T065546Z">
+        <seg>&lt;b0&gt;gschem&lt;/b0&gt; 也可以用于编辑在图表中使用的符号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally &lt;b0&gt;gschem&lt;/b0&gt; searches for the system configuration file, then ‘$HOME/.gEDA/gschemrc’, and finally for a ‘gschemrc’ file in the current working directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065812Z" creationid="yar" creationdate="20150428T065812Z">
+        <seg>通常&lt;b0&gt;gschem&lt;/b0&gt; 先搜索系统配置文件，然后是 '$HOME/.gEDA/gschemrc'，最后是当前的工作目录中的 'gschemrc' 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OPTIONS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063927Z" creationid="yar" creationdate="20150428T063157Z">
@@ -538,6 +554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T112255Z" creationid="yar" creationdate="20150420T111240Z">
         <seg>有些人认为 UNIX 手册页是一种薄弱且过时的文件形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify an additional configuration file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065717Z" creationid="yar" creationdate="20150428T065717Z">
+        <seg>指定配置文件</seg>
       </tuv>
     </tu>
     <tu>
