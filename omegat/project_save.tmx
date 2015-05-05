@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a ‘&lt;name&gt;.pcb’ file exists, it is searched for elements with a non-empty element name with no matching schematic symbol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T052303Z" creationid="ansys" creationdate="20150505T052303Z">
+        <seg>如果存在 '&lt;name&gt;.pcb' 文件，它寻找具有不匹配的示意性符号与。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no &lt;i0&gt;FILE&lt;/i0&gt;s are specified, a blank schematic is created for editing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071124Z" creationid="yar" creationdate="20150428T071124Z">
@@ -552,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>If no ‘&lt;name&gt;.pcb’ file exists for the design yet, it is created with the required elements; otherwise, any new elements are output to a ‘&lt;name&gt;.new.pcb’ file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T051941Z" creationid="ansys" creationdate="20150505T051941Z">
-        <seg>如果当前目录没有所需的 '&lt;name&gt;.pcb ' 文件存在，那么将根据封装元件创建该文件 ； 否则，任何新的元素被输出到 '&lt;name&gt;.new.pcb' 文件。&lt;/name&gt; &lt;/name&gt;</seg>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T052142Z" creationid="ansys" creationdate="20150505T051941Z">
+        <seg>如果当前目录没有 '&lt;name&gt;.pcb ' 文件存在，那么将根据封装元件创建该文件； 否则，任何新的封装元件都会被输出到 '&lt;name&gt;.new.pcb' 文件。</seg>
       </tuv>
     </tu>
     <tu>
