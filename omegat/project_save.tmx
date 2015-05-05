@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-f&lt;/b0&gt;, &lt;b1&gt;--use-files&lt;/b1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054143Z" creationid="ansys" creationdate="20150505T054025Z">
+        <seg>&lt;b0&gt;-f&lt;/b0&gt;, &lt;b1&gt;--文件&lt;/b1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;-h&lt;/b0&gt;, &lt;b1&gt;--help&lt;/b1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063257Z" creationid="yar" creationdate="20150428T063257Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the following directories are searched if they exist: ‘./packages’, ‘/usr/local/share/pcb/newlib’, ‘/usr/share/pcb/newlib’, ‘/usr/local/lib/pcb_lib’, ‘/usr/lib/pcb_lib’, ‘/usr/local/pcb_lib’.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054012Z" creationid="ansys" creationdate="20150505T054012Z">
+        <seg>默认情况下，如下的目录如果存在，将作为搜索的目录列表：‘./packages’, ‘/usr/local/share/pcb/newlib’, ‘/usr/share/pcb/newlib’, ‘/usr/local/lib/pcb_lib’, ‘/usr/lib/pcb_lib’, ‘/usr/local/pcb_lib’。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COPYRIGHT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063605Z" creationid="yar" creationdate="20150428T063533Z">
@@ -538,6 +554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053259Z" creationid="ansys" creationdate="20150505T053259Z">
         <seg>最后， &lt;b0&gt;gnetlist&lt;/b0&gt;（1） 通过 'pcbpins' 后端第三次运行，创建 '&lt;name&gt;.cmd' 文件。&lt;/name&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Force use of file elements in preference to elements generated with &lt;b0&gt;M4&lt;/b0&gt;(1).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054217Z" creationid="ansys" creationdate="20150505T054124Z">
+        <seg>强制使用‘文件’，而不用&lt;b0&gt;M4&lt;/b0&gt;（1） 生成的封装元件。</seg>
       </tuv>
     </tu>
     <tu>
