@@ -560,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>If no ‘&lt;name&gt;.pcb’ file exists for the design yet, it is created with the required elements; otherwise, any new elements are output to a ‘&lt;name&gt;.new.pcb’ file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T052142Z" creationid="ansys" creationdate="20150505T051941Z">
-        <seg>如果当前目录没有 '&lt;name&gt;.pcb ' 文件存在，那么将根据封装元件创建该文件； 否则，任何新的封装元件都会被输出到 '&lt;name&gt;.new.pcb' 文件。</seg>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T052804Z" creationid="ansys" creationdate="20150505T051941Z">
+        <seg>如果当前目录没有 '&lt;name&gt;.pcb ' 文件，那么将根据封装元件创建该文件； 否则，任何新的封装元件都会被输出到 '&lt;name&gt;.new.pcb' 文件。</seg>
       </tuv>
     </tu>
     <tu>
