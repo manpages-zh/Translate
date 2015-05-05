@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;b0&gt;gsch2pcb&lt;/b0&gt; project file is a file (not ending in ‘.sch’) containing a list of schematics to process and some options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T055127Z" creationid="ansys" creationdate="20150505T055127Z">
+        <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; 项目文件（不以 '.sch' 结尾）包含过程所需的原理图文件列表和一些选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTHORS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063617Z" creationid="yar" creationdate="20150428T063524Z">
