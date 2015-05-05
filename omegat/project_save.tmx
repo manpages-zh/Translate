@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#PROJECT FILES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T050225Z" creationid="ansys" creationdate="20150505T050225Z">
+        <seg>#项目文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#SCHEMATIC AND SYMBOL FILES</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064519Z" creationid="yar" creationdate="20150428T064519Z">
