@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; [&lt;i1&gt;OPTION&lt;/i1&gt; ...] {&lt;i2&gt;PROJECT&lt;/i2&gt; | &lt;i3&gt;FILE&lt;/i3&gt; ...}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T050347Z" creationid="ansys" creationdate="20150505T050347Z">
+        <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; [&lt;i1&gt;选项&lt;/i1&gt; ...] {&lt;i2&gt;PROJECT&lt;/i2&gt; | &lt;i3&gt;文件&lt;/i3&gt; ...}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;gschem&lt;/b0&gt; [&lt;i1&gt;OPTION&lt;/i1&gt; ...] [&lt;i2&gt;--&lt;/i2&gt;] [&lt;i3&gt;FILE&lt;/i3&gt; ...]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064800Z" creationid="yar" creationdate="20150428T064800Z">
@@ -882,6 +890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062823Z" creationid="yar" creationdate="20150428T062823Z">
         <seg>gattrib - gEDA/gaf 原理图属性编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gsch2pcb - Update PCB layouts from gEDA/gaf schematics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T050316Z" creationid="ansys" creationdate="20150505T050316Z">
+        <seg>gsch2pcb - 从 gEDA/gaf 原理图更新 PCB 布局</seg>
       </tuv>
     </tu>
     <tu>
