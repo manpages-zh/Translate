@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any missing elements are found by searching a set of file element directories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T051627Z" creationid="ansys" creationdate="20150505T051627Z">
+        <seg>所有的封装都是通过搜索一组文件目录找到的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any schematic or symbols specified are loaded at startup as separate documents in the schematic editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071043Z" creationid="yar" creationdate="20150428T071043Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115322Z" creationid="yar" creationdate="20150420T115322Z">
         <seg>Roff/mandoc/mdoc 宏语言是高度扩展的裂缝之间多种方言，并且包括一堆设备特定的东西与现代出版工具无关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second step is to run &lt;b0&gt;gnetlist&lt;/b0&gt;(1) again with the ‘gsch2pcb’ backend to find any &lt;b1&gt;M4&lt;/b1&gt;(1) elements required by the schematics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T051536Z" creationid="ansys" creationdate="20150505T051536Z">
+        <seg>第二步，再一次运行 &lt;b0&gt;gnetlist&lt;/b0&gt;（1）通过 'gsch2pcb' 后端查找图表所需的&lt;b1&gt;M4&lt;/b1&gt;(1) 元件封装。</seg>
       </tuv>
     </tu>
     <tu>
