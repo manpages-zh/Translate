@@ -270,14 +270,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;b0&gt;-V&lt;/b0&gt;, &lt;b1&gt;--version&lt;/b1&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070716Z" creationid="yar" creationdate="20150428T070716Z">
-        <seg>&lt;b0&gt;-v&lt;/b0&gt;, &lt;b1&gt;--verbose&lt;/b1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&lt;b0&gt;-c&lt;/b0&gt; &lt;i1&gt;EXPR&lt;/i1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071520Z" creationid="yar" creationdate="20150428T070128Z">
@@ -290,14 +282,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053749Z" creationid="ansys" creationdate="20150505T053749Z">
         <seg>&lt;b0&gt;-d&lt;/b0&gt;, &lt;b1&gt;--封装目录&lt;/b1&gt;=&lt;i2&gt;DIRECTORY&lt;/i2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>&lt;b0&gt;-f&lt;/b0&gt;, &lt;b1&gt;--use-files&lt;/b1&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054143Z" creationid="ansys" creationdate="20150505T054025Z">
-        <seg>&lt;b0&gt;-f&lt;/b0&gt;, &lt;b1&gt;--文件&lt;/b1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable element generation using &lt;b0&gt;M4&lt;/b0&gt;(1) entirely.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054258Z" creationid="ansys" creationdate="20150505T054258Z">
+        <seg>完全禁用 &lt;b0&gt;M4&lt;/b0&gt;（1）封装文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENVIRONMENT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063624Z" creationid="yar" creationdate="20150428T063303Z">
@@ -560,8 +552,8 @@
       <tuv lang="EN-US">
         <seg>Force use of file elements in preference to elements generated with &lt;b0&gt;M4&lt;/b0&gt;(1).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054217Z" creationid="ansys" creationdate="20150505T054124Z">
-        <seg>强制使用‘文件’，而不用&lt;b0&gt;M4&lt;/b0&gt;（1） 生成的封装元件。</seg>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054332Z" creationid="ansys" creationdate="20150505T054124Z">
+        <seg>强制使用指定文件，而不用&lt;b0&gt;M4&lt;/b0&gt;（1） 生成的封装元件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PROJECT FILES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054544Z" creationid="ansys" creationdate="20150505T054544Z">
+        <seg>项目文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please see the ‘COPYING’ file included with this &lt;br1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064022Z" creationid="yar" creationdate="20150428T064022Z">
@@ -714,6 +714,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070047Z" creationid="yar" creationdate="20150428T070047Z">
         <seg>追加一个 Scheme 文件搜索&lt;i0&gt;目录&lt;/i0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print &lt;b0&gt;gsch2pcb&lt;/b0&gt; version information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054535Z" creationid="ansys" creationdate="20150505T054535Z">
+        <seg>打印&lt;b0&gt;gsch2pcb&lt;/b0&gt; 版本信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053652Z" creationid="ansys" creationdate="20150505T053652Z">
         <seg>以‘&lt;i0&gt;BASENAME&lt;/i0&gt;.net’, ‘&lt;i1&gt;BASENAME&lt;/i1&gt;.pcb’, and ‘&lt;i2&gt;BASENAME&lt;/i2&gt;.new.pcb’名称输出文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;b0&gt;M4&lt;/b0&gt;(1) file &lt;i1&gt;FILE&lt;/i1&gt; in addition to the default M4 files ‘./pcb.inc’ and ‘~/.pcb/pcb.inc’.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T054427Z" creationid="ansys" creationdate="20150505T054427Z">
+        <seg>默认 M4 文件之外，还使用&lt;b0&gt;M4&lt;/b0&gt;（1） 文件&lt;i1&gt;文件&lt;/i1&gt;'./ pcb.inc' 和 ' ~ /.pcb/pcb.inc'。</seg>
       </tuv>
     </tu>
     <tu>
