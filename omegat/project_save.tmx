@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; is a frontend to &lt;b1&gt;gnetlist&lt;/b1&gt;(1) which aids in creating and updating &lt;b2&gt;pcb&lt;/b2&gt;(1) printed circuit board layouts based on a set of electronic schematics created with &lt;b3&gt;gschem&lt;/b3&gt;(1).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T050809Z" creationid="ansys" creationdate="20150505T050809Z">
+        <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; 是到&lt;b1&gt;gnetlist&lt;/b1&gt;（1）的前端 ，通过 &lt;b3&gt;gschem&lt;/b3&gt;（1）创建的原理图，创建和更新&lt;b2&gt;pcb&lt;/b2&gt;（1） 印制板布局 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;gschem&lt;/b0&gt; [&lt;i1&gt;OPTION&lt;/i1&gt; ...] [&lt;i2&gt;--&lt;/i2&gt;] [&lt;i3&gt;FILE&lt;/i3&gt; ...]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064800Z" creationid="yar" creationdate="20150428T064800Z">
