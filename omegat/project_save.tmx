@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; first runs &lt;b1&gt;gnetlist&lt;/b1&gt;(1) with the ‘PCB’ backend to create a ‘&lt;name&gt;.net’ file containing a &lt;b2&gt;pcb&lt;/b2&gt;(1) formatted netlist for the design.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T051355Z" creationid="ansys" creationdate="20150505T051355Z">
+        <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; 首先运行 &lt;b1&gt;gnetlist&lt;/b1&gt;（1） 通过 'PCB' 后端生成包含格式化 &lt;b2&gt;pcb&lt;/b2&gt;  （1）的设计网表文件 '&lt;name&gt;.net' 。&lt;/name&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; is a frontend to &lt;b1&gt;gnetlist&lt;/b1&gt;(1) which aids in creating and updating &lt;b2&gt;pcb&lt;/b2&gt;(1) printed circuit board layouts based on a set of electronic schematics created with &lt;b3&gt;gschem&lt;/b3&gt;(1).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T050840Z" creationid="ansys" creationdate="20150505T050809Z">
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063156Z" creationid="yar" creationdate="20150428T063156Z">
         <seg>如果在命令行上没有指定要打开的&lt;i0&gt;文件&lt;/i0&gt;s ，则 &lt;b1&gt;gattrib&lt;/b1&gt; 会在启动时显示文件选择器对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead of specifying all options and input gEDA schematic &lt;i0&gt;FILE&lt;/i0&gt;s on the command line, &lt;b1&gt;gsch2pcb&lt;/b1&gt; can use a &lt;i2&gt;PROJECT&lt;/i2&gt; file instead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T051124Z" creationid="ansys" creationdate="20150505T051124Z">
+        <seg>&lt;b1&gt;gsch2pcb&lt;/b1&gt; 使用项目文件 &lt;i2&gt;PROJECT&lt;/i2&gt; 替代在命令行上指定所有的选项和输入的 gEDA 原理图 &lt;i0&gt;文件&lt;/i0&gt;s， 。</seg>
       </tuv>
     </tu>
     <tu>
