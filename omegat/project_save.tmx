@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-d&lt;/b0&gt;, &lt;b1&gt;--elements-dir&lt;/b1&gt;=&lt;i2&gt;DIRECTORY&lt;/i2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053749Z" creationid="ansys" creationdate="20150505T053749Z">
+        <seg>&lt;b0&gt;-d&lt;/b0&gt;, &lt;b1&gt;--封装目录&lt;/b1&gt;=&lt;i2&gt;DIRECTORY&lt;/i2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;-h&lt;/b0&gt;, &lt;b1&gt;--help&lt;/b1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063257Z" creationid="yar" creationdate="20150428T063257Z">
@@ -438,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add &lt;i0&gt;DIRECTORY&lt;/i0&gt; to the list of directories to search for PCB file elements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053848Z" creationid="ansys" creationdate="20150505T053840Z">
+        <seg>将目录 &lt;i0&gt;DIRECTORY&lt;/i0&gt; 添加到 PCB 封装文件的搜索目录列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any missing elements are found by searching a set of file element directories.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T051958Z" creationid="ansys" creationdate="20150505T051627Z">
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115129Z" creationid="yar" creationdate="20150420T115129Z">
         <seg>大的粗体部分标题、 正当的等宽文本，很好��缩进的段落、 智能地对齐的定义列表信息页眉和页脚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the basename of the first schematic file in the list of input files is used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053737Z" creationid="ansys" creationdate="20150505T053737Z">
+        <seg>默认情况下，basename 为输入文件列表中的第一个原理图文件名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T114953Z" creationid="yar" creationdate="20150420T114953Z">
         <seg>笨拙的文档层次结构复杂另有良好的文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use output filenames ‘&lt;i0&gt;BASENAME&lt;/i0&gt;.net’, ‘&lt;i1&gt;BASENAME&lt;/i1&gt;.pcb’, and ‘&lt;i2&gt;BASENAME&lt;/i2&gt;.new.pcb’.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053652Z" creationid="ansys" creationdate="20150505T053652Z">
+        <seg>以‘&lt;i0&gt;BASENAME&lt;/i0&gt;.net’, ‘&lt;i1&gt;BASENAME&lt;/i1&gt;.pcb’, and ‘&lt;i2&gt;BASENAME&lt;/i2&gt;.new.pcb’名称输出文件.</seg>
       </tuv>
     </tu>
     <tu>
