@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;-o&lt;/b0&gt;, &lt;b1&gt;--output-name&lt;/b1&gt;=&lt;i2&gt;BASENAME&lt;/i2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053559Z" creationid="ansys" creationdate="20150505T053559Z">
+        <seg>&lt;b0&gt;-o&lt;/b0&gt;, &lt;b1&gt;--输出名称&lt;/b1&gt;=&lt;i2&gt;BASENAME&lt;/i2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;-o&lt;/b0&gt;, &lt;b1&gt;--output&lt;/b1&gt;=&lt;i2&gt;FILE&lt;/i2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070148Z" creationid="yar" creationdate="20150428T070148Z">
@@ -850,6 +858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053225Z" creationid="ansys" creationdate="20150505T052506Z">
         <seg>在 '&lt;name&gt;.pcb' 中移除这些封装，并备份中到 '&lt;name&gt;.pcb.bak' 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be loaded into &lt;b1&gt;pcb&lt;/b1&gt;(1) to rename all pin names in the PCB layout to match the schematic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T053543Z" creationid="ansys" creationdate="20150505T053543Z">
+        <seg>该文件可以加载到 &lt;b1&gt;pcb&lt;/b1&gt;（1）中重命名 PCB 板中的引脚名，以匹配原理图。</seg>
       </tuv>
     </tu>
     <tu>
