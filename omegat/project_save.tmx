@@ -536,8 +536,8 @@
       <tuv lang="EN-US">
         <seg>If a ‘&lt;name&gt;.pcb’ file exists, it is searched for elements with a non-empty element name with no matching schematic symbol.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T052303Z" creationid="ansys" creationdate="20150505T052303Z">
-        <seg>如果存在 '&lt;name&gt;.pcb' 文件，它寻找具有不匹配的示意性符号与。</seg>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T052610Z" creationid="ansys" creationdate="20150505T052303Z">
+        <seg>如果存在 '&lt;name&gt;.pcb' 文件，它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064143Z" creationid="yar" creationdate="20150428T064143Z">
         <seg>在法律许可的范围之内，本许可不对产品作任何的保证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These elements are removed from the ‘&lt;name&gt;.pcb’ file, with a backup in a ‘&lt;name&gt;.pcb.bak’ file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T052506Z" creationid="ansys" creationdate="20150505T052506Z">
+        <seg>从中移除这些元素 '&lt;name&gt;.pcb'，并备份中到 '&lt;name&gt;.pcb.bak' 文件。</seg>
       </tuv>
     </tu>
     <tu>
