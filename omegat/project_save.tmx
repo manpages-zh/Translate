@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It means that refdes’s from each &lt;i0&gt;inputfile&lt;/i0&gt; gets renumbered from 100,200... etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020003Z" creationid="yanpenn" creationdate="20150506T020003Z">
+        <seg>这意味着，每个&lt;i0&gt;输入文件&lt;/i0&gt;的编号从 100,200......等开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>License GPLv2+: GNU GPL &lt;br0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063942Z" creationid="yar" creationdate="20150428T063942Z">
@@ -814,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RETURN VALUE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020023Z" creationid="yanpenn" creationdate="20150506T020023Z">
+        <seg>返回值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember that Feynman covered all of physics -- heavenly bodies through QED -- with only two levels of document hierarchy (The Feynman Lectures on Physics, 1970).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150420T115056Z" creationid="yar" creationdate="20150420T115056Z">
@@ -906,6 +922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T065834Z" creationid="yar" creationdate="20150428T065717Z">
         <seg>指定一个额外的配置文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;grenum&lt;/b0&gt; program will renumber the refdes definitions read from &lt;i1&gt;infile.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015759Z" creationid="yanpenn" creationdate="20150506T015759Z">
+        <seg>&lt;b0&gt;grenum&lt;/b0&gt; 程序读取&lt;i1&gt;infile&lt;/i1&gt; 文件并序号重新编号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will switch on the page jump mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015825Z" creationid="yanpenn" creationdate="20150506T015825Z">
+        <seg>切换到页面跳转模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Treat all remaining arguments as schematic or symbol filenames.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070747Z" creationid="yar" creationdate="20150428T070747Z">
@@ -1130,6 +1162,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T071512Z" creationid="yar" creationdate="20150428T064718Z">
         <seg>gschem - gEDA/gaf 原理图捕获程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>prints help message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020013Z" creationid="yanpenn" creationdate="20150506T020013Z">
+        <seg>打印帮助信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>prints version information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020008Z" creationid="yanpenn" creationdate="20150506T020008Z">
+        <seg>打印版本信息</seg>
       </tuv>
     </tu>
     <tu>
