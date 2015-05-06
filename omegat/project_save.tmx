@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#AUTHOR</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015106Z" creationid="yanpenn" creationdate="20150506T015106Z">
+        <seg># 作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#AUTHORS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T062532Z" creationid="yar" creationdate="20150428T062532Z">
         <seg># 作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#BUGS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015053Z" creationid="yanpenn" creationdate="20150506T015053Z">
+        <seg># 臭虫</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +82,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T050225Z" creationid="ansys" creationdate="20150505T050225Z">
         <seg>#项目文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#RETURN VALUE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015041Z" creationid="yanpenn" creationdate="20150506T015041Z">
+        <seg># 返回值</seg>
       </tuv>
     </tu>
     <tu>
