@@ -416,8 +416,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;grenum&lt;/b0&gt; will return &lt;b1&gt;0&lt;/b1&gt; if all files processed successfully, &lt;b2&gt;1&lt;/b2&gt; if there was no input file specified, &lt;b3&gt;2&lt;/b3&gt; if I/O files can’t be opened/written, &lt;b4&gt;3&lt;/b4&gt; if there is parse error in input file, &lt;b5&gt;4&lt;/b5&gt; if there is not enough memory to store refdes prefixes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020406Z" creationid="yanpenn" creationdate="20150506T020406Z">
-        <seg> 如果成功地处理所有的文件，&lt;b0&gt;grenum&lt;/b0&gt; 返回&lt;b1&gt;0&lt;/b1&gt; ； 如果没有指定任何输入的文件，则返回 &lt;b2&gt;1&lt;/b2&gt; ；如果 I/O 文件不能打开/写入的话， 返回 &lt;b3&gt;2&lt;/b3&gt; ；如果输入文件中出现解析错误，则返回 &lt;b4&gt;3&lt;/b4&gt;；如果没有足够的内存来存储序号 refdes 前缀，则返回 &lt;b5&gt;4&lt;/b5&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020733Z" creationid="yanpenn" creationdate="20150506T020406Z">
+        <seg> 如果成功地处理所有的文件，&lt;b0&gt;grenum&lt;/b0&gt; 返回&lt;b1&gt;0&lt;/b1&gt; ；如果没有指定任何输入的文件，则返回 &lt;b2&gt;1&lt;/b2&gt; ；如果 I/O 文件不能打开/写入的话， 返回 &lt;b3&gt;2&lt;/b3&gt; ；如果输入文件中出现解析错误，则返回 &lt;b4&gt;3&lt;/b4&gt;；如果没有足够的内存来存储序号 refdes 前缀，则返回 &lt;b5&gt;4&lt;/b5&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTHOR</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020425Z" creationid="yanpenn" creationdate="20150506T020425Z">
+        <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTHORS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063617Z" creationid="yar" creationdate="20150428T063524Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T070604Z" creationid="yar" creationdate="20150428T070604Z">
         <seg>自动放置窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUGS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020413Z" creationid="yanpenn" creationdate="20150506T020413Z">
+        <seg>臭虫</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T052804Z" creationid="ansys" creationdate="20150505T051941Z">
         <seg>如果当前目录没有 '&lt;name&gt;.pcb ' 文件，那么将根据封装元件创建该文件； 否则，任何新的封装元件都会被输出到 '&lt;name&gt;.new.pcb' 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you find one, please report it to:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T020422Z" creationid="yanpenn" creationdate="20150506T020422Z">
+        <seg>如果你找到一个，请将其报告给：</seg>
       </tuv>
     </tu>
     <tu>
