@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;grenum&lt;/b0&gt; − An advanced refdes renumber utility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015553Z" creationid="yanpenn" creationdate="20150506T015553Z">
+        <seg>&lt;b0&gt;grenum&lt;/b0&gt; − 高级序号编号程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;gsch2pcb&lt;/b0&gt; [&lt;i1&gt;OPTION&lt;/i1&gt; ...] {&lt;i2&gt;PROJECT&lt;/i2&gt; | &lt;i3&gt;FILE&lt;/i3&gt; ...}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="ansys" changedate="20150505T050347Z" creationid="ansys" creationdate="20150505T050347Z">
