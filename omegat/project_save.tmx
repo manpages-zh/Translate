@@ -198,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a10&gt;BUGS&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015241Z" creationid="yanpenn" creationdate="20150506T015241Z">
+        <seg>&lt;a10&gt; 臭虫&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a10&gt;ENVIRONMENT&lt;/a10&gt;&lt;br11&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T064609Z" creationid="yar" creationdate="20150428T064609Z">
         <seg>&lt;a10&gt;环境变量&lt;/a10&gt;&lt;br11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a12&gt;AUTHOR&lt;/a12&gt;&lt;br13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015249Z" creationid="yanpenn" creationdate="20150506T015249Z">
+        <seg>&lt;a12&gt;作者&lt;/a12&gt;&lt;br13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yar" changedate="20150428T063920Z" creationid="yar" creationdate="20150428T062556Z">
         <seg>&lt;a8&gt;环境变量&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a8&gt;RETURN VALUE&lt;/a8&gt;&lt;br9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="yanpenn" changedate="20150506T015215Z" creationid="yanpenn" creationdate="20150506T015215Z">
+        <seg>&lt;a8&gt;返回值&lt;/a8&gt;&lt;br9&gt;</seg>
       </tuv>
     </tu>
     <tu>
