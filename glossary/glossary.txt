@@ -2,3 +2,4 @@ ARGUMENTS       	参数
 Manpages	Manpages
 get to the point	抓住了重点
 PCB layout	PCB 板
+refdes	位号、序号
